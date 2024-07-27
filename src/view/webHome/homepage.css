@@ -1,0 +1,27 @@
+.content{
+    border:2px solid rgba(9,9,121,1);
+    width: 90%;
+    height: 90vh;
+    margin: 2% auto;
+    border-radius: 15px;
+    background: linear-gradient(0.25turn, #c0c0c0, #a4a4a4, #91908f);
+}
+
+
+.body-h1{
+    font-size: 18px;
+    color: #000;
+    font-weight: 700;
+    width: 100px;
+    height: 30px;
+    background: #e04f4f;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.body-h1:hover{
+   
+    background: #c31717;
+   
+}
